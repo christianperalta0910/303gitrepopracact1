@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    background-color: aqua;
+    font-size: large;
+  }
+
+img {
+    width: 50%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
